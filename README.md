@@ -8,8 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-* In the `Goal` column, create 12 rows with the following headers:
-
   * Less than 1000
   * 1000 to 4999
   * 5000 to 9999
