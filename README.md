@@ -11,7 +11,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
   
  
-  * 30000 to 34999
+
   * 35000 to 39999
   * 40000 to 44999
   * 45000 to 49999
