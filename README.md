@@ -8,8 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  * Now create a pivot chart line graph that visualizes this new table.
-
 * Create a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
