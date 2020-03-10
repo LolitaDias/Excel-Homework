@@ -8,10 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-
-
-  * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
-
   * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
 
 * The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
