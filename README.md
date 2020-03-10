@@ -10,8 +10,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-* Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-
 ## Submission
 
 * To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
