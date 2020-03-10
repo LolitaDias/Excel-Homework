@@ -8,7 +8,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
