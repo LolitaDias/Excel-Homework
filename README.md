@@ -9,7 +9,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
