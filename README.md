@@ -9,7 +9,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![Kickstarter Table](Images/FullTable.PNG)
 
 
-  * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
 * Use conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
 
