@@ -7,9 +7,6 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. In this assignment, we will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 
-
-  * Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
-
   ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
   * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
