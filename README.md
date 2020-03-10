@@ -6,15 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. In this assignment, we will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-![Kickstarter Table](Images/FullTable.PNG)
 
-
-
-
-
-  * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
-
-  ![Category Stats](Images/CategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
