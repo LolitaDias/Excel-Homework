@@ -13,6 +13,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-- - -
 
-© 2019 Trilogy Education Services
