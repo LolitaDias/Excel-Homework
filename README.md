@@ -8,7 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
   ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
