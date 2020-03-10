@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Kickstarter Crowfunding Analysis
 
 ## Background
 
