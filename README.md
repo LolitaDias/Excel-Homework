@@ -9,7 +9,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
