@@ -16,6 +16,7 @@ Detailed instructions are provided below this overview.
 ## Kickstarter_Crowfunding_Analysis.xlsx
 
 Analyzed the data from sampled Kickstarter Corwdfunding projects through the use of pivot tables and graphical representations. 
+
 Specific analysis are presented for:
 
 1. Project Outcome versus Project Category (Filtered by Country)
@@ -23,14 +24,16 @@ Specific analysis are presented for:
 3. Project Outcome versus Month (Filtered by Category & Year)
 4. Project Outcome Percentage versus Monetary Goal Range (No Filtering Available)
 
-Prerequisites
+Prerequisites:
+
 Knowledge of Excel conditional formatting, pivot tables, and plotting functions.
 
-Instructions
-Select the desired analysis sheet of the four presented in the document overview.
-Use the drop-down menus in the upper left to filter the data where appropriate.
-Use the drop-down menus in the pivot tables to perform further data reduction as necessary.
-No modifications should be made to the raw data.
+Instructions:
+
+1. Select the desired analysis sheet of the four presented in the document overview.
+2. Use the drop-down menus in the upper left to filter the data where appropriate.
+3. Use the drop-down menus in the pivot tables to perform further data reduction as necessary.
+4. No modifications should be made to the raw data.
 
 Output
 The pivot tables and associated plots will automatically adjust based on selections made in the drop-down menus
