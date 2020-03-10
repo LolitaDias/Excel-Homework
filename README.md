@@ -12,7 +12,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
 
 - - -
 
