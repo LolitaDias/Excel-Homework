@@ -8,8 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
-
 * The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
 
   * Create a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `launched_at` into Excel's date format.
