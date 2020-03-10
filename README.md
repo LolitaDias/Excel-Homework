@@ -8,8 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
-
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
   ![Subcategory Stats](Images/SubcategoryStats.PNG)
