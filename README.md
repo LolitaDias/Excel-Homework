@@ -35,5 +35,6 @@ Instructions:
 3. Use the drop-down menus in the pivot tables to perform further data reduction as necessary.
 4. No modifications should be made to the raw data.
 
-Output
+Output:
+
 The pivot tables and associated plots will automatically adjust based on selections made in the drop-down menus
