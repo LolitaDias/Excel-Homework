@@ -10,7 +10,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-  * Create a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
+
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
