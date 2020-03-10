@@ -6,8 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. In this assignment, we will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-  
-  * `Total Projects`
+
   * `Percentage Successful`
   * `Percentage Failed`
   * `Percentage Canceled`
