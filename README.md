@@ -8,7 +8,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
-* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
   * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
